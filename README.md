@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<!--깃허브 스탯-->
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+</p>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
