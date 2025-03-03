@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 -->
 
 <!--깃허브 스탯-->
-<div>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=beom0419&theme=vue&show_icons=true"/></a>
 </p>
 
 <!--백준 티어-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beom0419)](https://solved.ac/beom0419/)
-</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
