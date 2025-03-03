@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--깃허브 스탯-->
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=beom0419&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=beom0419&theme=vue&show_icons=true"/>
 </div>
 
 <!--백준 티어-->
