@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 </div>
 
 <!--백준 티어-->
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beom0419)](https://solved.ac/beom0419/)
-
+<p align="center">
+  <a href="https://solved.ac/beom0419/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=beom0419" alt="Solved.ac Profile">
+  </a>
+</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
